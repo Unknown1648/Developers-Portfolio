@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#1a1a2e"/>
+  <rect x="0" y="400" width="800" height="200" fill="#16213e"/>
+  <rect x="120" y="180" width="560" height="320" rx="8" fill="#0f3460"/>
+  <rect x="160" y="220" width="120" height="100" rx="4" fill="#e94560" opacity="0.9"/>
+  <rect x="300" y="220" width="120" height="100" rx="4" fill="#e94560" opacity="0.7"/>
+  <rect x="440" y="220" width="120" height="100" rx="4" fill="#e94560" opacity="0.9"/>
+  <rect x="580" y="220" width="60" height="100" rx="4" fill="#e94560" opacity="0.5"/>
+  <rect x="200" y="360" width="400" height="140" rx="4" fill="#533483"/>
+  <text x="400" y="430" text-anchor="middle" fill="#fff" font-family="system-ui,sans-serif" font-size="28" font-weight="700">PLP</text>
+  <text x="400" y="465" text-anchor="middle" fill="#e94560" font-family="system-ui,sans-serif" font-size="14" font-weight="500">Power Learn Project</text>
+  <circle cx="400" cy="120" r="40" fill="#e94560" opacity="0.3"/>
+  <rect x="350" y="500" width="100" height="8" rx="4" fill="#e94560"/>
+</svg>

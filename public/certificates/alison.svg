@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#0c4a6e"/>
+  <rect x="0" y="380" width="800" height="220" fill="#075985"/>
+  <rect x="150" y="120" width="500" height="380" rx="8" fill="#0369a1"/>
+  <rect x="190" y="160" width="420" height="240" rx="6" fill="#0ea5e9" opacity="0.2"/>
+  <rect x="230" y="200" width="100" height="80" rx="4" fill="#fff" opacity="0.15"/>
+  <rect x="350" y="200" width="100" height="80" rx="4" fill="#fff" opacity="0.2"/>
+  <rect x="470" y="200" width="100" height="80" rx="4" fill="#fff" opacity="0.15"/>
+  <rect x="230" y="300" width="340" height="60" rx="4" fill="#22d3ee" opacity="0.3"/>
+  <text x="400" y="420" text-anchor="middle" fill="#fff" font-family="system-ui,sans-serif" font-size="32" font-weight="700">Alison</text>
+  <text x="400" y="455" text-anchor="middle" fill="#7dd3fc" font-family="system-ui,sans-serif" font-size="14" font-weight="500">Free Online Learning</text>
+  <path d="M400 80 L420 120 L380 120 Z" fill="#22d3ee" opacity="0.5"/>
+</svg>
