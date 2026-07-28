@@ -10,7 +10,7 @@ export default function Resume() {
           <p className="text-slate-600 dark:text-slate-400">A quick summary of my professional background.</p>
         </div>
         <a
-          href="/my-cv.pdf"
+          href="/Muiruri Christopher Developer CV.pdf"
           download
           className="mt-4 md:mt-0 inline-flex items-center gap-2 px-5 py-2.5 rounded-lg bg-teal-500 text-white dark:text-slate-950 font-semibold hover:bg-teal-400 transition-colors w-fit"
         >
