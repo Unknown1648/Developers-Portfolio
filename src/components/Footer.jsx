@@ -13,7 +13,7 @@ export default function Footer() {
             GitHub
           </a>
           <a
-            href="https://www.linkedin.com/in/christopher-muiruri/"
+            href="https://www.linkedin.com/in/muiruri-christopher-524953425"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-teal-500 dark:hover:text-teal-400"
