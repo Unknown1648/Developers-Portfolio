@@ -84,7 +84,7 @@ export default function About() {
           Great software isn't just about writing code—it's about creating experiences people enjoy using. I love taking ideas, no matter how simple or ambitious, 
           and turning them into fast, reliable, and intuitive digital products that feel effortless.
           My approach combines thoughtful design with solid engineering. I pay attention to the details that matter—performance, accessibility, clean architecture, and usability—so every project looks great, works smoothly, and is built to last.
-          Whether I'm building a website, a web application, or exploring new technologies, my goal is always the same: create solutions that solve real problems, leave a lasting impression, and make people's lives a little easier.
+          Whether I'm building a website, a web application, an android application or exploring new technologies, my goal is always the same: create solutions that solve real problems, leave a lasting impression, and make people's lives a little easier.
 
         </p>
       </section>
